@@ -1,0 +1,22 @@
+
+
+
+The data is showing the Global Surface Summary of the Day Weather Data. 
+There is no obvious trend other than the temperature being lower at the end and begining of the year and higher in the middle of the year.
+	
+The information of our primary dataset files are submimtted seperately as screen shots the first three being datasets on different years and another screenshot of the relation between station number and station information.  
+
+
+
+With our second dataset we hope to gain knowledge on the world health nutrition and if there are any trends occuring over the past few years.  
+
+The fourth and fifth screenshots shows what the weather is globally in different years (2017, 2018) 
+
+In utilizing all these files, we hope to gain better understanding on the impact of weather on glocal health. And hopefully more insightful relations between catastrophies and major nutritional changes. 
+
+
+All files can be found on this link which links to the public dataset that google stores:
+1. This link is for the weather data
+https://console.cloud.google.com/marketplace/details/noaa-public/gsod?filter=solution-type:dataset&id=c6c1b652-3958-4a47-9e58-552a546df47f&fbclid=IwAR0Zc8lLUBsuioOogoI4lD3iPLUwUXHHOm2BbxjauSNMDBvdp59Oq3nRJkY
+2. This link is for the global nutrition data
+https://console.cloud.google.com/marketplace/details/the-world-bank/global-health?filter=solution-type:dataset&id=f3c38e10-2c45-43c8-8a12-8d749ba987ee&fbclid=IwAR1Uee_d4pfFVMQFg3emiJ0S9uJSosgmDEwb9nH5epxmr_vuVDF8Mzh_8aQ
